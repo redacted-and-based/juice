@@ -21,6 +21,7 @@ Violent tendancies, likes to chase people down and scream at them. Carries antif
 <br>
 <br>
 #Dulce
+<br>
 <img src="https://i.postimg.cc/JzbRr5S6/db.jpg<" alt="Dulce">
 <br>
 Dulcee Barnes AKA Dulce
