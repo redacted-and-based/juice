@@ -12,6 +12,6 @@ Age: 26 DOB: 06/02/1994
 <br>
 Username: Chefkane
 <br>
-[url=https://ibb.co/F0QBcF3][img]https://i.ibb.co/F0QBcF3/bc.jpg[/img][/url]
+https://i.ibb.co/F0QBcF3/bc.jpg
 <br>
 Violen tendancies, likes to chase people down and scream at them. Carries antifa flag with thick wodden pole.
