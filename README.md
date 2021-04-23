@@ -11,6 +11,7 @@ Age: 26 DOB: 06/02/1994
 305-408-8968 Reported: 11/30/2015
 <br>
 Username: Chefkane
-<img src="https://ibb.co/F0QBcF3">
+<br>
+Image: https://i.ibb.co/F0QBcF3/bc.jpg
 <br>
 Violen tendancies, likes to chase people down and scream at them. Carries antifa flag with thick wodden pole.
