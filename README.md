@@ -2,7 +2,7 @@
 
 #Kane
 <br>
-<img src="https://i.postimg.cc/j5VxtkSF/bc.jpg"  width="500" alt="Kane">
+<img src="https://i.postimg.cc/j5VxtkSF/bc.jpg" alt="Kane" width="500" height="800">
 <br>
 Brandon Curtis AKA Kane
 <br>
@@ -24,7 +24,7 @@ Violent tendancies, likes to chase people down and scream at them. Carries antif
 <br>
 #Dulce
 <br>
-<img src="https://i.postimg.cc/JzbRr5S6/db.jpg<" alt="Dulce">
+<img src="https://i.postimg.cc/JzbRr5S6/db.jpg" alt="Dulce" width="500" height="500">
 <br>
 Dulcee Barnes AKA Dulce
 <br>
@@ -47,7 +47,7 @@ Is in charge of bail assistance program. Carries red dagger on front left.
 <br>
 #Bullhorn
 <br>
-<img src="https://i.postimg.cc/MHsy9ZNC/sj.jpg" alt="Dulce">
+<img src="https://i.postimg.cc/MHsy9ZNC/sj.jpg alt="Bullhorn" width="500" height="800">
 <br>
 Shakyra Jackson
 <br>
