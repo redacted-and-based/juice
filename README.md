@@ -21,6 +21,7 @@ Violent tendancies, likes to chase people down and scream at them. Carries antif
 <br>
 <br>
 #Dulce
+<img src="https://i.postimg.cc/JzbRr5S6/db.jpg<" alt="Dulce">
 <br>
 Dulcee Barnes AKA Dulce
 <br>
@@ -33,8 +34,6 @@ Age: DOB: 23 11/26/1997
 786-360-6074 Reported: Unkown
 <br>
 Username: DulceeSlaterr
-<br>
-<img src="https://i.postimg.cc/JzbRr5S6/db.jpg<" alt="Kane">
 <br>
 Is in charge of bail assistance program. Carries red dagger on front left.
 <br>
