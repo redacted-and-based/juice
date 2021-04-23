@@ -47,7 +47,7 @@ Is in charge of bail assistance program. Carries red dagger on front left.
 <br>
 #Bullhorn
 <br>
-<img src="https://i.postimg.cc/MHsy9ZNC/sj.jpg"<alt="Dulce">
+<img src="https://i.postimg.cc/MHsy9ZNC/sj.jpg" alt="Dulce">
 <br>
 Shakyra Jackson
 <br>
