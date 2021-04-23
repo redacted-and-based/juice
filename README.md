@@ -30,7 +30,7 @@ Dulcee Barnes AKA Dulce
 <br>
 Affiliation: BLM, Protect The Land, Bail assistance
 <br>
-Age: DOB: 23 11/26/1997
+Age: 23 DOB: 11/26/1997
 <br>
 6611 Miami Lakes Dr Miami Lakes, Florida 33014 Previous: 8784 NW 168th St. Hialeah FL, 33018
 <br>
@@ -39,6 +39,29 @@ Age: DOB: 23 11/26/1997
 Username: DulceeSlaterr
 <br>
 Is in charge of bail assistance program. Carries red dagger on front left.
+<br>
+<br>
+<br>
+##############################################################
+<br>
+<br>
+#Bullhorn
+<br>
+<img src="https://i.postimg.cc/MHsy9ZNC/sj.jpg"<alt="Dulce">
+<br>
+Shakyra Jackson
+<br>
+Affiliation: BLM
+<br>
+Age:32 DOB: 11/02/1988
+<br>
+2750 NW 43rd Ter. Miami FL, 33142
+<br>
+305-635-4901 Reported: 11/30/2020
+<br>
+Username: TheShakyraJackson
+<br>
+Long wrap sheet, likes to verbally assault passerby's.
 <br>
 <br>
 <br>
