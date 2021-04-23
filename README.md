@@ -2,7 +2,7 @@
 
 #Kane
 <br>
-<img src="https://i.postimg.cc/j5VxtkSF/bc.jpg"  width="200" height="121" alt="Photo of 3 cats">
+<img src="https://i.postimg.cc/j5VxtkSF/bc.jpg"  width="500" alt="Kane">
 <br>
 Brandon Curtis AKA Kane
 <br>
