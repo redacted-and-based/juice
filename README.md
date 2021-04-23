@@ -2,6 +2,8 @@
 
 #Kane
 <br>
+<img src="https://i.postimg.cc/j5VxtkSF/bc.jpg" alt="Kane">
+<br>
 Brandon Curtis AKA Kane
 <br>
 Affiliation: Antifa
@@ -13,8 +15,6 @@ Age: 26 DOB: 06/02/1994
 305-408-8968 Reported: 11/30/2015
 <br>
 Username: Chefkane
-<br>
-image: https://i.postimg.cc/j5VxtkSF/bc.jpg
 <br>
 Violent tendancies, likes to chase people down and scream at them. Carries antifa flag with thick wodden pole.
 <br>
@@ -34,7 +34,7 @@ Age: DOB: 23 11/26/1997
 <br>
 Username: DulceeSlaterr
 <br>
-image: https://i.postimg.cc/JzbRr5S6/db.jpg
+<img src="https://i.postimg.cc/JzbRr5S6/db.jpg<" alt="Kane">
 <br>
 Is in charge of bail assistance program. Carries red dagger on front left.
 <br>
