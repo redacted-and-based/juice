@@ -88,3 +88,26 @@ Dresses like a storm trooper, wears a Campbell's soup badge on her empty plate c
 <br>
 <br>
 <br>
+##############################################################
+<br>
+<br>
+#Blondie
+<br>
+<img src="https://i.postimg.cc/qMDsnGPj/bd.jpg" alt="Blondie" width="500" height="500">
+<br>
+Zayani [Redacted]
+<br>
+Affiliation: BLM
+<br>
+Age: 17 DOB: [Redacted]
+<br>
+[Redacted] Homestead FL, 33033
+<br>
+Phone: TBD Reported: TBD
+<br>
+Username: Zayaniross
+<br>
+Front line fighter was arrestead recently
+<br>
+<br>
+<br>
