@@ -16,7 +16,6 @@ Age: 26 DOB: 06/02/1994
 <br>
 Username: Chefkane
 <br>
-Violent tendancies, likes to chase people down and scream at them. Carries antifa flag with thick wodden pole.
 <br>
 <br>
 ##############################################################
@@ -38,7 +37,6 @@ Age: 23 DOB: 11/26/1997
 <br>
 Username: DulceeSlaterr
 <br>
-Is in charge of bail assistance program. Carries red dagger on front left.
 <br>
 <br>
 <br>
@@ -61,7 +59,6 @@ Age: 32 DOB: 11/02/1988
 <br>
 Username: TheShakyraJackson
 <br>
-Long wrap sheet, likes to verbally assault passerby's.
 <br>
 <br>
 <br>
@@ -84,7 +81,6 @@ Phone: TBD Reported: TBD
 <br>
 Username: Stormthepoet_
 <br>
-Dresses like a storm trooper, wears a Campbell's soup badge on her empty plate carrier, front line can in hand.
 <br>
 <br>
 <br>
@@ -107,7 +103,6 @@ Phone: TBD Reported: TBD
 <br>
 Username: Zayaniross
 <br>
-Front line fighter was arrestead recently
 <br>
 <br>
 <br>
